@@ -1,4 +1,4 @@
-function JUST (num) {
+efunction JUST (num) {
     let sum = 0
     while (num < 10) {
         if (num % 2 == 1) {
