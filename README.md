@@ -1,1 +1,1 @@
-# practice JavaScropt
+# practice JavaScript
