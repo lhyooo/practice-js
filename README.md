@@ -1,1 +1,1 @@
-# 자바스크립트 연습하기! 
+# practice JavaScropt
