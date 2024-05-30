@@ -9,7 +9,7 @@ class _boog { // 붕어빵이라는 클래스
     _cooked_degree; // 익힘 정도
     
     // 생성자(클래스에서 새로운 인스턴트(객체) 만듦)
-    _constructor(_name, _inside, _cooked_degree) {
+    constructor(_name, _inside, _cooked_degree) {
         this._name = _name;
         this._inside = _inside;
         this._cooked_degree = _cooked_degree;
